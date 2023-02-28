@@ -1,4 +1,4 @@
-﻿namespace Program5
+﻿namespace apple_calculation
 {
     internal class Program
     {
